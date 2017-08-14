@@ -79,7 +79,7 @@
   .main-nav li {
     display: inline;
     margin-right: 5%;
-    letter-spacing: 5px;
-    margin-left: 15px;
+    letter-spacing: 3px;
+    padding-right: 10px;
   }
 }
